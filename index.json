@@ -1,0 +1,11 @@
+{
+  "org": "quodlibet",
+  "repo": "mutagen",
+  "versions": [
+    {
+      "commit": "ada28b2cc92c515f3f26640a6feef6516d195872",
+      "tag": "",
+      "parsed_at": "2026-10-18T00:04:49.903662+00:00"
+    }
+  ]
+}
