@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/quodlibet/mutagen/commit/ada28b2cc92c515f3f26640a6feef6516d195872",
       "git:hexsha": "ada28b2cc92c515f3f26640a6feef6516d195872",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T00:04:49.902535+00:00"
     },
     {
       "@id": "https://repolex.ai/r/quodlibet/mutagen/commit/c0ad5f5e1a5446eb0d1609e547d5915594720c33",
